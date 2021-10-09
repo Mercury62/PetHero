@@ -45,9 +45,18 @@ import time
 # - werewolves
 # - shadows, survive until you give up
 
+print(r"""
+___  ___   ________   ___        ________      ___        ___   ________  _______            __________  ___  ___   ________   _______    _______      
+|\  \|\  \ |\   __  \ |\  \      |\  _____\    |\  \      |\  \ |\  _____\|\  ___ \         |\___   ___\|\  \|\  \ |\   __  \ |\  ___ \  |\  ___ \     
+\ \  \\\  \\ \  \|\  \\ \  \     \ \  \__/     \ \  \     \ \  \\ \  \__/ \ \   __/|        \|___ \  \_|\ \  \\\  \\ \  \|\  \\ \   __/| \ \   __/|    
+ \ \   __  \\ \   __  \\ \  \     \ \   __\     \ \  \     \ \  \\ \   __\ \ \  \_|/__           \ \  \  \ \   __  \\ \   _  _\\ \  \_|/__\ \  \_|/__  
+  \ \  \ \  \\ \  \ \  \\ \  \____ \ \  \_|      \ \  \____ \ \  \\ \  \_|  \ \  \_|\ \           \ \  \  \ \  \ \  \\ \  \\  \|\ \  \_|\ \\ \  \_|\ \ 
+   \ \__\ \__\\ \__\ \__\\ \_______\\ \__\        \ \_______\\ \__\\ \__\    \ \_______\           \ \__\  \ \__\ \__\\ \__\\ _\ \ \_______\\ \_______\
+    \|__|\|__| \|__|\|__| \|_______| \|__|         \|_______| \|__| \|__|     \|_______|            \|__|   \|__|\|__| \|__|\|__| \|_______| \|_______|
+                                                                                                                                                       """)
+
 name = input("Enter your name: ")
 age = input("Enter your age: ")
-
 
 i = 0
 classChoice = True
@@ -77,12 +86,14 @@ events = [
     While you were asleep a slime decided your tent was a prime source of delicious cloth and had eaten most of it before you were
 woken up the the sound of sloshing.
 """, #  - 0
-"The slime was easy to kill but don't get cocky......it was literally just a slime.", #  - 1
+"""                                                            
+The slime was easy to kill but don't get cocky......it was literally just a slime.""", #  - 1
 """
     Hearing light footsteps coming closer you ready your weapon. Out of the shadows walks a small green creature. It is no more than a
 few feet tall being at eye level to your waist. It is holding a small shortsword and snarling at you.
 """, #  - 2
-"The goblin was pretty easy but there was only one this time. You got lucky; goblins usually travel in packs. Be careful.", #  - 3
+"""
+The goblin was pretty easy but there was only one this time. You got lucky; goblins usually travel in packs. Be careful.""", #  - 3
 "You enter a room where there is nothing but empty space and a chest at the end of the room.", #  - 4
 """
     You decided to leave it alone. It could be empty or it could be a trap. There are bound to be more oportunities to satiate
@@ -97,7 +108,21 @@ your greed anyhow so don't let your trip end here.
     Mimics are quite rare but somehow you managed to find one and kill it. It may have almost taken a couple limbs off and scared
 you half to death but who knows, maybe the experience is worth it......hopefully.
 """, #  - 7
-"""
+r"""
+    .-.    
+   (o.o)   
+    |=|    
+   __|__   
+ //.=|=.\\ 
+// .=|=. \\
+\\ .=|=. //
+ \\(_=_)// 
+  (:| |:)  
+   || ||   
+   () ()   
+   || ||   
+   || ||   
+  ==' '==  
     The rattling of bones fills the corridor as a skeleton walks towards you. It notices you.....you think. You're really unsure as the
 skeleton have eyes but it raises its scimitar and round shield and grinds its teeth in your direction.
 """, #  - 8
@@ -124,8 +149,7 @@ wish you didn't but you do. You try your best to brace yourself for the mental o
 creature. You think hell spawn is a better term but it doesn't matter because even if it was called a fluffy rainbow unicorn you
 still wouldn't want to fight it.
 """, #  - 13
-"""
-    It died a long time ago but your fears persisted so you ended up stabbing it another 67 times just to make sure it was dead. You
+"""It died a long time ago but your fears persisted so you ended up stabbing it another 67 times just to make sure it was dead. You
 almost wished there were more spiders because killing them felt like a gift to humanity but that thought didn't last long because
 then you would have to fight them again.
 """, #  - 14
@@ -137,8 +161,7 @@ speaks in a low voice, "You seem to be in need of some things, I've got what you
 """
     Maniacal laughter fills the halls as a twitching fellow walks towards you. He looks like a mage.
 """, #  - 17
-"""
-    The maniac is dead but his laughter still haunts you. You'll hear that in your dreams. *Shiver*.
+"""The maniac is dead but his laughter still haunts you. You'll hear that in your dreams. *Shiver*.
 """, #  - 18
 """
     You come upon a massive door the size of a house. As you approach they rumble open shaking the entire dungeon.
@@ -150,9 +173,7 @@ Sitting in the chair is a minotaur. It tilts its head up from the ground and sta
 It will most likely attack very slowly giving you ample time to attack or heal multiple times. This however means that
 when the time comes, blocking may be your only chance for survival. You're in for one hell of a fight with this thing.
 """, #  - 20
-"""
-    You've done it! It seemed impossible for one lone adventurer to do but you did. Congratulations! Go home and enjoy the spoils.
-""", #  - 21
+"You've done it! It seemed impossible for one lone adventurer to do but you did. Congratulations! Go home and enjoy the spoils.", #  - 21
 """
     After opening a door that has seen better days, you stumble upon a room with a small water fountain in the middle. There
 is a lever next to the fountain. Pulling it required quite a bit of force but after you did water flowed freely out of the
@@ -170,8 +191,7 @@ that thing to attack, you better be ready to take action quickly. You're in for 
 hard to take down but ooga booga intelligence. As you are pondering what to do it turns around and notices you. It
 scratches its head for a second and then shrugs. You feel a little insulted considering its intelligence.
 """, # - 25
-"""
-    With and ending strike the hulking beast is taken down. It took a solid amount of effort but it was a large and
+"""With and ending strike the hulking beast is taken down. It took a solid amount of effort but it was a large and
 stationary target so beggars can't be choosers.
 """, # - 26
 """
@@ -184,8 +204,7 @@ No? Why don't you test it against your weapon then.
     While taking a leak you happened to look up only to be met with large glowing red eyes and an unholy screech. You'd
 be afraid but that will have to wait until after you are done. Just pee on it if it really can't wait.
 """, # - 29
-"""
-    Finally one of your swings knocks the bat out of the air and you finish it off. It was more annoying than intense to fight
+"""Finally one of your swings knocks the bat out of the air and you finish it off. It was more annoying than intense to fight
 as it was harder to hit than a fly and had the agility of a bird. It's dead but your exhausted.
 """ # - 30
 ]
@@ -498,7 +517,27 @@ def attackEvent(event1, event2, monster):
 
         if monster["Health"] <= 0 and monster != zombie:
             del playerInput [:]
-            print ("You killed the monster!")
+            print ("""
+ ███████████████████████████  
+ ███████▀▀▀░░░░░░░▀▀▀███████  
+ ████▀░░░░░░░░░░░░░░░░░▀████  
+ ███│░░░░░░░░░░░░░░░░░░░│███  
+ ██▌│░░░░░░░░░░░░░░░░░░░│▐██  
+ ██░└┐░░░░░░░░░░░░░░░░░┌┘░██  
+ ██░░└┐░░░░░░░░░░░░░░░┌┘░░██  
+ ██░░┌┘▄▄▄▄▄░░░░░▄▄▄▄▄└┐░░██  
+ ██▌░│██████▌░░░▐██████│░▐██  
+ ███░│▐███▀▀░░▄░░▀▀███▌│░███  
+ ██▀─┘░░░░░░░▐█▌░░░░░░░└─▀██  
+ ██▄░░░▄▄▄▓░░▀█▀░░▓▄▄▄░░░▄██  
+ ████▄─┘██▌░░░░░░░▐██└─▄████  
+ █████░░▐█─┬┬┬┬┬┬┬─█▌░░█████  
+ ████▌░░░▀┬┼┼┼┼┼┼┼┬▀░░░▐████  
+ █████▄░░░└┴┴┴┴┴┴┴┘░░░▄█████  
+ ███████▄░░░░░░░░░░░▄███████  
+ ██████████▄▄▄▄▄▄▄██████████  
+ ███████████████████████████
+You killed the monster!""")
             randomGold = random.randint(20, 60)
             print ("The monster had " + str(randomGold) + " gold!")
             stats["gold"] += randomGold
