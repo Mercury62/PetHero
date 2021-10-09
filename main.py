@@ -74,6 +74,7 @@ tutorial = """
     you are ready to start your adventure. Good luck......you'll most likely need it.
 """
 
+
 start = """
         After readying your belongings, you head out. The dungeon isn't too far but it's not exactly close so you steel yourself
     and say a small goodbye which you think could be your last. You walk along the road and veer off into the woods until you
@@ -142,12 +143,33 @@ up but the monster is about to touch you so that'll have to wait.
 though you are losing sanity by the second but on the bright side, no other monster will every be able to hurt you the way that
 thing did.
 """, #  - 11
-"You found a dead end, good job. Have fun backtracking a dimly lit, monster infested labyrinth :) .", # - 12
-"""
+"You found a dead end, good job. Have fun backtracking a dimly lit, monster infested labyrinth :) "
+".",# - 12
+r"""
+              ,,))))))));,
+           __)))))))))))))),
+\|/       -\(((((''''((((((((.
+-*-==//////((''  .     `)))))),
+/|\      ))| o    ;-.    '(((((                                  ,(,
+         ( `|    /  )    ;))))'                               ,_))^;(~
+            |   |   |   ,))((((_     _____------~~~-.        %,;(;(>';'~
+            o_);   ;    )))(((` ~---~  `::           \      %%~~)(v;(`('~
+                  ;    ''''````         `:       `:::|\,__,%%    );`'; ~
+                 |   _                )     /      `:|`----'     `-'
+           ______/\/~    |                 /        /
+         /~;;.____/;;'  /          ___--,-(   `;;;/
+        / //  _;______;'------~~~~~    /;;/\    /
+       //  | |                        / ;   \;;,\
+      (<_  | ;                      /',/-----'  _>
+       \_| ||_                     //~;~~~~~~~~~
+           `\_|                   (,~~  -Tua Xiong
+                                   \~\
+                                    ~~
     You stop walking abrubtly as you see the floor is coated with a layer of sticky thread. You know what's coming. You really really
 wish you didn't but you do. You try your best to brace yourself for the mental onslaught of fear you are about to face fighting this
 creature. You think hell spawn is a better term but it doesn't matter because even if it was called a fluffy rainbow unicorn you
 still wouldn't want to fight it.
+
 """, #  - 13
 """It died a long time ago but your fears persisted so you ended up stabbing it another 67 times just to make sure it was dead. You
 almost wished there were more spiders because killing them felt like a gift to humanity but that thought didn't last long because
@@ -184,7 +206,9 @@ fountain. You take a long needed drink and rest.
 Sitting in the chair is a minotaur. It tilts its head up from the ground and stares you down with its red piercing eyes.
 It will most likely attack very slowly giving you ample time to attack or heal multiple times. When it comes time for
 that thing to attack, you better be ready to take action quickly. You're in for one hell of a fight with this thing.
-""", #  - 23
+
+"""
+    , #  - 23
 "You know, one goblin isn't really a formidable opponent, but 3! Well. Let's just see how this goes...", # - 24
 """
     You open a door into a bigger room. Lumbering around the room seems to be a troll. They are well known. Really
@@ -281,6 +305,7 @@ minotaurBoss = {
     "Health" : 100,
     "Attack" : 100,
     "Defence" : 3
+
     }
 
 
@@ -1014,6 +1039,7 @@ def QTEminotaurAttack():
             print ("You died!")
             break
 
+
 def fountain():
     print (events[22])
     print ("You feel rejuvenated! You are now at max health!")
@@ -1131,3 +1157,6 @@ if i == 31:
 
 if i == 32:
     print ("You win!")
+
+
+
