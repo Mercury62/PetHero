@@ -160,7 +160,20 @@ The goblin was pretty easy but there was only one this time. You got lucky; gobl
     You decided to leave it alone. It could be empty or it could be a trap. There are bound to be more oportunities to satiate
 your greed anyhow so don't let your trip end here.
 """, #  - 5
-"""
+r"""
+⠀⠀⠀⢠⡜⠛⠛⠿⣤⠀⠀⣤⡼⠿⠿⢧⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⣀⡶⠎⠁⠀⠀⠀⠉⠶⠶⠉⠁⠀⠀⠈⠹⢆⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⣀⡿⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠉⠶⠶⠶⠶⣆⡀⠀⠀⠀⠀
+⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⢣⡄⠀⠀⠀
+⠛⣧⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇⠀⠀
+⠀⠛⣧⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠿⠀⠀⠀⠀⢠⡼⠃⠀⠀
+⠀⠀⠿⢇⡀⠀⠀⠀⠀⠀⠀⠀⠰⠶⠶⢆⣀⣀⣀⠀⠀⠀⠀⠀⠀⢸⡇⠀⠀⠀
+⠀⠀⠀⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠉⠉⠀⠀⠀⠀⠀⠀⢸⡇⠀⠀⠀
+⠀⠀⠀⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇⠀⠀
+⠀⠀⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⢣⣤
+⠀⣶⡏⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿
+⠀⠿⣇⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⣀⣀⣀⣀⠀⠀⠀⠀⢀⣀⣸⠿
+⠀⠀⠙⢳⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⡞⠛⠛⠛⠛⠛⠛⣶⣶⣶⣶⡞⠛⠃
     Against your 100% BETTER judgement, you decide to open a random chest, in a random room, in a monster infested dungeon.
     Congratulations! You are now missing a limb! You managed to find a mimic! A horrifying grotesque monster that disguises itself
     as a chest to lure in greedy prey. Have fun killing something covered in metal.
@@ -252,25 +265,24 @@ thing did.
 "You found a dead end, good job. Have fun backtracking a dimly lit, monster infested labyrinth :) "
 ".",# - 12
 r"""
-              ,,))))))));,
-           __)))))))))))))),
-\|/       -\(((((''''((((((((.
--*-==//////((''  .     `)))))),
-/|\      ))| o    ;-.    '(((((                                  ,(,
-         ( `|    /  )    ;))))'                               ,_))^;(~
-            |   |   |   ,))((((_     _____------~~~-.        %,;(;(>';'~
-            o_);   ;    )))(((` ~---~  `::           \      %%~~)(v;(`('~
-                  ;    ''''````         `:       `:::|\,__,%%    );`'; ~
-                 |   _                )     /      `:|`----'     `-'
-           ______/\/~    |                 /        /
-         /~;;.____/;;'  /          ___--,-(   `;;;/
-        / //  _;______;'------~~~~~    /;;/\    /
-       //  | |                        / ;   \;;,\
-      (<_  | ;                      /',/-----'  _>
-       \_| ||_                     //~;~~~~~~~~~
-           `\_|                   (,~~  -Tua Xiong
-                                   \~\
-                                    ~~
+          ____                      ,
+          /---.'.__             ____//
+               '--.\           /.---'
+          _______  \\         //
+        /.------.\  \|      .'/  ______
+       //  ___  \ \ ||/|\  //  _/_----.\__
+      |/  /.-.\  \ \:|< >|// _/.'..\   '--'
+         //   \'. | \'.|.'/ /_/ /  \\
+        //     \ \_\/" ' ~\-'.-'    \\
+       //       '-._| :H: |'-.__     \\
+      //           (/'==='\)'-._\     ||
+      ||                        \\    \|
+      ||                         \\    '
+      |/                          \\
+                                   ||
+                                   ||
+                                   \\
+                                    '
     You stop walking abrubtly as you see the floor is coated with a layer of sticky thread. You know what's coming. You really really
 wish you didn't but you do. You try your best to brace yourself for the mental onslaught of fear you are about to face fighting this
 creature. You think hell spawn is a better term but it doesn't matter because even if it was called a fluffy rainbow unicorn you
@@ -281,12 +293,47 @@ still wouldn't want to fight it.
 almost wished there were more spiders because killing them felt like a gift to humanity but that thought didn't last long because
 then you would have to fight them again.
 """, #  - 14
-"You delve further into the dungeon", #  - 15
-"""
+"You delve further into the dungeon",#  - 15
+r"""
+  \/________________        
+ /     _____________)
+/     /     /   \ |         
+\/\/\/     (O) (O)|           
+  |           ------, 
+  |  _       ______/ 
+  | (_      /   \  \
+  |        /  ___\_ \       
+  |        \      / / 
+__|_________\______/
+\______________\./__\   
+ /     .       | \  |
+ \    /_\   .  |  \ |\     
+ |`\       /_\ |   \| \
     As you continue down the hall a shady figure is seen standing in your way. He turns but his face is nearly covered and he
 speaks in a low voice, "You seem to be in need of some things, I've got what you need.....for a price.
 """, #  - 16
-"""
+r"""
+              _,-'|
+           ,-'._  |
+ .||,      |####\ |
+\.`',/     \####| |
+= ,. =      |###| |
+/ || \    ,-'\#/,'`.
+  ||     ,'   `,,. `.
+  ,|____,' , ,;' \| |
+ (3|\    _/|/'   _| |
+  ||/,-''  | >-'' _,\\
+  ||'      ==\ ,-'  ,'
+  ||       |  V \ ,|
+  ||       |    |` |
+  ||       |    |   \
+  ||       |    \    \
+  ||       |     |    \
+  ||       |      \_,-'
+  ||       |___,,--")_\
+  ||         |_|   ccc/
+  ||        ccc/
+  ||                hjm
     Maniacal laughter fills the halls as a twitching fellow walks towards you. He looks like a mage.
 """, #  - 17
 """The maniac is dead but his laughter still haunts you. You'll hear that in your dreams. *Shiver*.
@@ -295,19 +342,84 @@ speaks in a low voice, "You seem to be in need of some things, I've got what you
     You come upon a massive door the size of a house. As you approach they rumble open shaking the entire dungeon.
 You know that it may not be the best idea to go ahead but that is your whole reason for being here. You enter the door.
 """, #  - 19
-"""
+r"""
+                                                              _( (~\
+       _ _                        /                          ( \> > \
+   -/~/ / ~\                     :;                \       _  > /(~\/
+  || | | /\ ;\                   |l      _____     |;     ( \/ /   /
+  _\\)\)\)/ ;;;                  `8o __-~     ~\   d|      \   \  //
+ ///(())(__/~;;\                  "88p;.  -. _\_;.oP        (_._/ /
+(((__   __ \\   \                  `>,% (\  (\./)8"         ;:'  i
+)))--`.'-- (( ;,8 \               ,;%%%:  ./V^^^V'          ;.   ;.
+((\   |   /)) .,88  `: ..,,;;;;,-::::::'_::\   ||\         ;[8:   ;
+ )|  ~-~  |(|(888; ..``'::::8888oooooo.  :\`^^^/,,~--._    |88::| |
+  \ -===- /|  \8;; ``:.      oo.8888888888:`((( o.ooo8888Oo;:;:'  |
+ |_~-___-~_|   `-\.   `        `o`88888888b` )) 888b88888P""'     ;
+  ;~~~~;~~         "`--_`.       b`888888888;(.,"888b888"  ..::;-'
+   ;      ;              ~"-....  b`8888888:::::.`8888. .:;;;''
+      ;    ;                 `:::. `:::OOO:::::::.`OO' ;;;''
+ :       ;                     `.      "``::::::''    .'
+    ;                           `.   \_              /
+  ;       ;                       +:   ~~--  `:'  -';
+                                   `:         : .::/
+      ;                            ;;+_  :::. :..;;;
+
     Through the door is a large circular room made of marble and stone with an enormous chair at the other end.
 Sitting in the chair is a minotaur. It tilts its head up from the ground and stares you down with its red piercing eyes.
 It will most likely attack very slowly giving you ample time to attack or heal multiple times. This however means that
 when the time comes, blocking may be your only chance for survival. You're in for one hell of a fight with this thing.
 """, #  - 20
 "You've done it! It seemed impossible for one lone adventurer to do but you did. Congratulations! Go home and enjoy the spoils.", #  - 21
-"""
+r"""
+                      .      .       .       .
+  .   .       .          .      . .      .         .          .    .
+         .       .         .    .   .         .         .            .
+    .   .    .       .         . . .        .        .     .    .
+ .          .   .       .       . .      .        .  .              .
+      .  .    .  .       .     . .    .       . .      .   .        .
+ .   .       .    . .      .    . .   .      .     .          .     .
+    .            .    .     .   . .  .     .   .               .
+     .               .  .    .  . . .    .  .                 .
+                        . .  .  . . .  . .
+                            . . . . . .
+                              . . . .
+                               I . I
+                 _______________III_______________
+                /    .       .       .       .    \
+               ( ~~~ .  ~~~  .  ~~~  .  ~~~  . ~~~ )
+                 \SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS/
+                    \ ======================= /
+                        \SSSSSSSSSSSSSSSSS/
+                     ________\       /________
+                    (=+=+=+=+=+=+=+=+=+=+=+=+=)
+                     ~~~~~~~~~~~~~~~~~~~~~~~~~
+
     After opening a door that has seen better days, you stumble upon a room with a small water fountain in the middle. There
 is a lever next to the fountain. Pulling it required quite a bit of force but after you did water flowed freely out of the
 fountain. You take a long needed drink and rest.
 """, #  - 22
-"""
+r"""
+                                                              _( (~\
+       _ _                        /                          ( \> > \
+   -/~/ / ~\                     :;                \       _  > /(~\/
+  || | | /\ ;\                   |l      _____     |;     ( \/ /   /
+  _\\)\)\)/ ;;;                  `8o __-~     ~\   d|      \   \  //
+ ///(())(__/~;;\                  "88p;.  -. _\_;.oP        (_._/ /
+(((__   __ \\   \                  `>,% (\  (\./)8"         ;:'  i
+)))--`.'-- (( ;,8 \               ,;%%%:  ./V^^^V'          ;.   ;.
+((\   |   /)) .,88  `: ..,,;;;;,-::::::'_::\   ||\         ;[8:   ;
+ )|  ~-~  |(|(888; ..``'::::8888oooooo.  :\`^^^/,,~--._    |88::| |
+  \ -===- /|  \8;; ``:.      oo.8888888888:`((( o.ooo8888Oo;:;:'  |
+ |_~-___-~_|   `-\.   `        `o`88888888b` )) 888b88888P""'     ;
+  ;~~~~;~~         "`--_`.       b`888888888;(.,"888b888"  ..::;-'
+   ;      ;              ~"-....  b`8888888:::::.`8888. .:;;;''
+      ;    ;                 `:::. `:::OOO:::::::.`OO' ;;;''
+ :       ;                     `.      "``::::::''    .'
+    ;                           `.   \_              /
+  ;       ;                       +:   ~~--  `:'  -';
+                                   `:         : .::/
+      ;                            ;;+_  :::. :..;;;
+
     Through the door is a large circular room made of marble and stone with an enormous chair at the other end.
 Sitting in the chair is a minotaur. It tilts its head up from the ground and stares you down with its red piercing eyes.
 It will most likely attack very slowly giving you ample time to attack or heal multiple times. When it comes time for
@@ -316,7 +428,35 @@ that thing to attack, you better be ready to take action quickly. You're in for 
 """
     , #  - 23
 "You know, one goblin isn't really a formidable opponent, but 3! Well. Let's just see how this goes...", # - 24
-"""
+r"""
+               _________
+              |#########|
+              |#########|
+              |#########|
+              |#########|
+              |#########|
+            __|_________|__
+              |     '_ ' \
+              F     (.) (.)--.__
+             /                  `.
+            J                    |
+            F       ._          .'
+           J          `-.____.-'
+           F           \
+          J             \
+          |              \---
+          |  .  `.        \_E
+          |   `.  `.       L
+ ,,,      |     `.  `.     |
+\VVV'     |       `.  `    |
+ \W|      J         ```    F
+  `.    .' \              /
+    `--'    )    ____.-  '
+           /    /   `.   `.  .-
+          /   .'      `.   `' /
+          `.  \         `.   /
+            `._|          `-'    
+
     You open a door into a bigger room. Lumbering around the room seems to be a troll. They are well known. Really
 hard to take down but ooga booga intelligence. As you are pondering what to do it turns around and notices you. It
 scratches its head for a second and then shrugs. You feel a little insulted considering its intelligence.
@@ -324,7 +464,21 @@ scratches its head for a second and then shrugs. You feel a little insulted cons
 """With and ending strike the hulking beast is taken down. It took a solid amount of effort but it was a large and
 stationary target so beggars can't be choosers.
 """, # - 26
-"""
+r"""
+      ,
+          _,-""-._
+        ,"        ".
+       /    ,-,  ,"\
+      "    /   \ | o|
+      \    `-o-"  `-',
+       `,   _.--'`'--`
+         `--`---'                  
+           ,' '      
+         ./ ,  `,   
+         / /     \
+        (_)))_ _,"
+           _))))_,
+  --------(_,-._)))
     Zombies are very misunderstood. Not in the flesh-eating part of course but many of them are vampire minions; they
 are mindless and blood-thirsty. Speaking of which, here comes one now. Isn't it beautiful with its fangs and decaying flesh?
 No? Why don't you test it against your weapon then.
