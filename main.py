@@ -1392,8 +1392,21 @@ if i == 31:
     i += 1
     input ("Press Enter to continue!")
 
-if i == 32:
-    print ("You win!")
+if i == 32:print(r"""
+    pr.S S.     sSSs_sSSs     .S       S.          .S     S.    .S   .S_sSSs    
+      .SS SS.   d%%SP~YS%%b   .SS       SS.        .SS     SS.  .SS  .SS~YS%%b   
+      S%S S%S  d%S'     `S%b  S%S       S%S        S%S     S%S  S%S  S%S   `S%b  
+      S%S S%S  S%S       S%S  S%S       S%S        S%S     S%S  S%S  S%S    S%S  
+      S%S S%S  S&S       S&S  S&S       S&S        S%S     S%S  S&S  S%S    S&S  
+       SS SS   S&S       S&S  S&S       S&S        S&S     S&S  S&S  S&S    S&S  
+        S S    S&S       S&S  S&S       S&S        S&S     S&S  S&S  S&S    S&S  
+        SSS    S&S       S&S  S&S       S&S        S&S     S&S  S&S  S&S    S&S  
+        S*S    S*b       d*S  S*b       d*S        S*S     S*S  S*S  S*S    S*S  
+        S*S    S*S.     .S*S  S*S.     .S*S        S*S  .  S*S  S*S  S*S    S*S  
+        S*S     SSSbs_sdSSS    SSSbs_sdSSS         S*S_sSs_S*S  S*S  S*S    S*S  
+        S*S      YSSP~YSSY      YSSP~YSSY          SSS~SSS~S*S  S*S  S*S    SSS  
+        SP                                                      SP   SP          
+        Y                                                       Y    Y            """)
 
 
 
