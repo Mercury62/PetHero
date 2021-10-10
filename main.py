@@ -149,7 +149,16 @@ woken up the the sound of sloshing.
 """, #  - 0
 """                                                            
 The slime was easy to kill but don't get cocky......it was literally just a slime.""", #  - 1
-"""
+r"""
+        |\     ____
+        | \.-./ .-'
+         \ _  _(
+         | .)(./
+         |   \(
+         |     \   |
+         |  \vvv   |
+         |  |__    |
+         /      `-. |
     Hearing light footsteps coming closer you ready your weapon. Out of the shadows walks a small green creature. It is no more than a
 few feet tall being at eye level to your waist. It is holding a small shortsword and snarling at you.
 """, #  - 2
@@ -333,7 +342,7 @@ r"""
   ||       |___,,--")_\
   ||         |_|   ccc/
   ||        ccc/
-  ||                hjm
+  ||                
     Maniacal laughter fills the halls as a twitching fellow walks towards you. He looks like a mage.
 """, #  - 17
 """The maniac is dead but his laughter still haunts you. You'll hear that in your dreams. *Shiver*.
@@ -342,28 +351,7 @@ r"""
     You come upon a massive door the size of a house. As you approach they rumble open shaking the entire dungeon.
 You know that it may not be the best idea to go ahead but that is your whole reason for being here. You enter the door.
 """, #  - 19
-r"""
-                                                              _( (~\
-       _ _                        /                          ( \> > \
-   -/~/ / ~\                     :;                \       _  > /(~\/
-  || | | /\ ;\                   |l      _____     |;     ( \/ /   /
-  _\\)\)\)/ ;;;                  `8o __-~     ~\   d|      \   \  //
- ///(())(__/~;;\                  "88p;.  -. _\_;.oP        (_._/ /
-(((__   __ \\   \                  `>,% (\  (\./)8"         ;:'  i
-)))--`.'-- (( ;,8 \               ,;%%%:  ./V^^^V'          ;.   ;.
-((\   |   /)) .,88  `: ..,,;;;;,-::::::'_::\   ||\         ;[8:   ;
- )|  ~-~  |(|(888; ..``'::::8888oooooo.  :\`^^^/,,~--._    |88::| |
-  \ -===- /|  \8;; ``:.      oo.8888888888:`((( o.ooo8888Oo;:;:'  |
- |_~-___-~_|   `-\.   `        `o`88888888b` )) 888b88888P""'     ;
-  ;~~~~;~~         "`--_`.       b`888888888;(.,"888b888"  ..::;-'
-   ;      ;              ~"-....  b`8888888:::::.`8888. .:;;;''
-      ;    ;                 `:::. `:::OOO:::::::.`OO' ;;;''
- :       ;                     `.      "``::::::''    .'
-    ;                           `.   \_              /
-  ;       ;                       +:   ~~--  `:'  -';
-                                   `:         : .::/
-      ;                            ;;+_  :::. :..;;;
-
+"""
     Through the door is a large circular room made of marble and stone with an enormous chair at the other end.
 Sitting in the chair is a minotaur. It tilts its head up from the ground and stares you down with its red piercing eyes.
 It will most likely attack very slowly giving you ample time to attack or heal multiple times. This however means that
@@ -429,34 +417,18 @@ that thing to attack, you better be ready to take action quickly. You're in for 
     , #  - 23
 "You know, one goblin isn't really a formidable opponent, but 3! Well. Let's just see how this goes...", # - 24
 r"""
-               _________
-              |#########|
-              |#########|
-              |#########|
-              |#########|
-              |#########|
-            __|_________|__
-              |     '_ ' \
-              F     (.) (.)--.__
-             /                  `.
-            J                    |
-            F       ._          .'
-           J          `-.____.-'
-           F           \
-          J             \
-          |              \---
-          |  .  `.        \_E
-          |   `.  `.       L
- ,,,      |     `.  `.     |
-\VVV'     |       `.  `    |
- \W|      J         ```    F
-  `.    .' \              /
-    `--'    )    ____.-  '
-           /    /   `.   `.  .-
-          /   .'      `.   `' /
-          `.  \         `.   /
-            `._|          `-'    
-
+             ,      ,   
+            /(.-""-.)\
+        |\  \/      \/  /|
+        | \ / =.  .= \ / |
+        \( \   o\/o   / )/
+         \_, '-/  \-' ,_/
+           /   \__/   \
+           \,___/\___,/
+         ___\ \|--|/ /___
+       /`    \      /    `\
+      /       '----'       \
+ 
     You open a door into a bigger room. Lumbering around the room seems to be a troll. They are well known. Really
 hard to take down but ooga booga intelligence. As you are pondering what to do it turns around and notices you. It
 scratches its head for a second and then shrugs. You feel a little insulted considering its intelligence.
@@ -465,20 +437,25 @@ scratches its head for a second and then shrugs. You feel a little insulted cons
 stationary target so beggars can't be choosers.
 """, # - 26
 r"""
-      ,
-          _,-""-._
-        ,"        ".
-       /    ,-,  ,"\
-      "    /   \ | o|
-      \    `-o-"  `-',
-       `,   _.--'`'--`
-         `--`---'                  
-           ,' '      
-         ./ ,  `,   
-         / /     \
-        (_)))_ _,"
-           _))))_,
-  --------(_,-._)))
+                             .....            
+                               C C  /            
+                              /<   /             
+               ___ __________/_#__=o             
+              /(- /(\_\________   \              
+              \ ) \ )_      \o     \             
+              /|\ /|\       |'     |             
+                            |     _|             
+                            /o   __\             
+                           / '     |             
+                          / /      |             
+                         /_/\______|             
+                        (   _(    <              
+                         \    \    \             
+                          \    \    |            
+                           \____\____\           
+                           ____\_\__\_\          
+                         /`   /`     o\          
+                         |___ |_______|.. . 
     Zombies are very misunderstood. Not in the flesh-eating part of course but many of them are vampire minions; they
 are mindless and blood-thirsty. Speaking of which, here comes one now. Isn't it beautiful with its fangs and decaying flesh?
 No? Why don't you test it against your weapon then.
